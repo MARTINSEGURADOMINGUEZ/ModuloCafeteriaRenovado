@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ModuloCafeteriaRenovado</string>
+    <string-array name="tipomenu">
+        <item name=""></item>
+        <item name=""></item>
+    </string-array>
+</resources>
